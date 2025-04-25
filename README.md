@@ -48,7 +48,7 @@
 
 ## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/erdemveziroglu/)
-[![portfolio](https://img.shields.io/badge/my_page-000?style=for-the-badge&logo=ko-fi&logoColor=green)]([https://www.poxju.xyz])
+[![portfolio](https://img.shields.io/badge/my_page-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://www.poxju.xyz)
 
 
 
