@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a computer engineer from Turkey. Currently working on full-stack projects.</p>
+<p align="left">I'm a computer engineer from Turkey, passionate about building smart, user-focused software. Currently, I’m working on full-stack web projects and exploring intersections of software with hardware and AI.</p>
 
 ###
 
@@ -16,39 +16,47 @@
 
 ###
 
-<p align="left">- web development<br>- consumer electronics <br>- natural language processing</p>
+<p align="left">• web development<br>• consumer electronics <br>• natural language processing</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<table>
+  <tr>
+    <td align="center">
+      <h3>I code with</h3>
+      <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+    </td>
+    <td align="center">
+      <h3>Currently Learning</h3>
+      <img src="https://skillicons.dev/icons?i=swift" />
+    </td>
+    <td align="center">
+      <h3>What I've used</h3>
+      <img src="https://skillicons.dev/icons?i=arduino,matlab,opencv,tailwindcss,vue,nextjs" />
+    </td>
+    <td align="center">
+      <h3>What I've learned</h3>
+      <img src="https://skillicons.dev/icons?i=java,c,cpp" />
+    </td>
+  </tr>
+</table>
+
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<h2 align="center">unnecessary statistics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poxju&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&custom_title=Tomorrow%20will%20be%20better" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poxju&theme=tokyonight&hide_border=false" height="150" alt="GitHub streak stats" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=poxju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=will%20be%20better%20someday" height="150" alt="stats graph"  />
-</div>
+### 
+<h2 align="left">Links</h2>
 
-###
-
-## Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/erdemveziroglu/)
 [![portfolio](https://img.shields.io/badge/my_page-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://www.poxju.xyz)
-
-
-
