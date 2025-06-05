@@ -1,6 +1,9 @@
 <div align="center">
-  <img height="250" src="https://media-hosting.imagekit.io/784f3380b5774279/DSC00163.jpeg?Expires=1840185448&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=S09fDNTX9uFKoRjXEAhu7-858RSXTjHMsUAd4CRfmEisAR63t4GEjwf3eZKHDkscKjJYCYhTwIF5xKsgy~cZOp59xowPgoulZNyeCbtJNOW7hCKYGon4GmtIDDw5iXlDTesCdtLDu94~N5AodAV-z~w4YM190htKH99NQ1yoon5d~kXoda2wUhMqPJ3okWJoHZZTDmACdjTDWGXUlUegCmuCY~wAmX79nO0YEBeK5PcGgsYPUB6O6zG6ttqWIkrIeu9HYa8JCwZyrhULHkdnaOxCdDnPe2m8KoIPmYjZ4yB3fefmn6JQDNer4otu6DvUdenFC9SSG~36qiLhAnBtCg__"  />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZmbzVwcWcwM2RkeWJzOTkyaXdpaDVnYTg0aTM0OTR5aGRtMHA3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" 
+       width="100%" 
+       style="max-width: 800px;" />
 </div>
+
 
 ###
 
